@@ -15,7 +15,7 @@ import ro.pub.systems.eim.lab02.activitylifecyclemonitor.R;
 import ro.pub.systems.eim.lab02.activitylifecyclemonitor.general.Constants;
 import ro.pub.systems.eim.lab02.activitylifecyclemonitor.general.Utilities;
 
-public class LifecycleMonitorActivity extends AppCompatActivity {
+public class CLifecycleMonitorActivity extends AppCompatActivity {
 
     private ButtonClickListener buttonClickListener = new ButtonClickListener();
 
